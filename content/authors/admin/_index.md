@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yuyue Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Yúyuè Zhào'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Yuyue
+last_name: Zhao
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Researcher in Recommender Systems & Trustworthy AI
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Amsterdam
+    url: https://www.uva.nl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:yuyuezha00@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Go0day
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yuyue-zhao-544a33300/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=jEnOSuEAAAAJ&hl=en
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Generative Recommendation
+  - LLM Agents for Recommendation
+  - Trustworthy Recommendation
+  - News Recommendation & Media Bias
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Computer Science
+    institution: University of Amsterdam
+    icon: ""
+    date_start: 2023-11-01
+    date_end: 2025-10-31
+    summary: |
+      PhD in Computer Science at the University of Amsterdam, the Netherlands.
+
+      Advisor: Prof. dr. Maarten de Rijke.
+
+      Research on LLM-empowered and trustworthy recommender systems, focusing on
+      generative recommendation, LLM agents as surrogate users, and safety and robustness
+      in high-risk domains such as news recommendation.
+    button:
+      text: ''
+      url: ''
+  - area: M.E. Computer Science (Combined M.E.–Ph.D. Program)
+    institution: University of Science and Technology of China
+    icon: ""
+    date_start: 2019-09-01
+    date_end: 2023-10-31
+    summary: |
+      Combined M.E.–Ph.D. program in Computer Science, Hefei, China.
+
+      Advisor: Prof. dr. Xiangnan He.
+
+      Worked on recommendation algorithms with knowledge graphs, bias reduction, and
+      interactive recommendation.
+  - area: B.E. in Communication Engineering
+    institution: Southwest Jiaotong University
     icon: ""
     date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_end: 2019-07-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      Undergraduate studies in Communication Engineering, Chengdu, China.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Advisor: Prof. dr. Haiyong Xie.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Intern, Recommendation Systems – Re-ranking Team
+    company_name: Kuaishou
+    company_url: 'https://www.kuaishou.com/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-02-01
+    date_end: 2025-05-31
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed a user social role modeling framework that leverages multimodal large language
+      models to extract video theme tags and audience information, followed by LLM-based
+      inference for user role reasoning. Constructed user social role logic graphs as augmentation
+      signals for recommendation models to better capture interest migration and diversity needs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,63 +110,41 @@ skills:
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Recommender Systems & LLM Agents
         description: ''
-        percent: 100
+        percent: 95
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Machine Learning & Deep Learning
         description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+        percent: 95
+        icon: circle-stack
+  - name: Other
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Scientific Writing & Reviewing
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: pencil-square
+      - name: Teaching & Mentoring
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 85
+        icon: academic-cap
 
 languages:
   - name: English
+    percent: 90
+  - name: Mandarin (mother tongue)
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# If you have specific awards/scholarships, add them here.
+awards: []
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yuyue Zhao is a researcher in recommender systems and trustworthy AI. She completed her PhD in Computer Science at the University of Amsterdam, advised by Prof. dr. Maarten de Rijke. Before that, she worked with Prof. dr. Xiangnan He and Prof. dr. Xiang Wang. Her work focuses on generative recommendation, LLM agents for recommendation, and the safety and robustness of recommender systems, especially in sensitive domains
+such as news recommendation and personalized content delivery, where user trust and experience are critical.
+
+Her research spans three connected directions: (1) improving recommendation with LLM-based reasoning and agents, (2) correcting for attribute bias and enhancing explainability with invariant and knowledge-aware modeling, and (3) understanding and improving the safety of recommender systems under LLM-driven attacks and media bias control. She has published in venues such as SIGIR, RecSys, ECIR, and TOIS, and actively serves as a reviewer for major conferences and journals.
+
+Beyond individual models, she is interested in how recommender systems affect what users see and trust, and how we can design systems that are both powerful and responsible.
