@@ -68,7 +68,7 @@ education:
     button:
       text: ''
       url: ''
-  - area: M.E. Computer Science (Combined M.E.–Ph.D. Program)
+  - area: Combined M.E.–Ph.D. Program in Computer Science
     institution: University of Science and Technology of China
     icon: ""
     date_start: 2019-09-01
