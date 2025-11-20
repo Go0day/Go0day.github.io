@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: News
-    url: '/featured'    # or '#featured', see note below
+    url: '/publications'    # or '#featured', see note below
     weight: 20
 
   - name: Publications
