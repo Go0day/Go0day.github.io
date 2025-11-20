@@ -1,90 +1,155 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "LANCE: Exploration and Reflection for LLM-based Textual Attacks on News Recommendation"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2025-07-01T00:00:00Z'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  - Large Language Models
-
-# Display this page in the Featured widget?
+  - "Jin Huang"
+  - "Shuchang Liu"
+  - "Jiancan Wu"
+  - "Xiang Wang"
+  - "Maarten de Rijke"
+date: 2025-09-01
+publishDate: 2025-09-01
+publication_types: ["2"]
+publication: "19th ACM Conference on Recommender Systems (RecSys 2025), Spotlight Oral"
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
-
-# Custom links
-links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+A reflection-driven and exploration-oriented textual attack framework revealing vulnerabilities in news recommender systems.
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+---
+title: "Revisiting Language Models in Neural News Recommender Systems"
+authors:
+  - admin
+  - "Jin Huang"
+  - "David Vos"
+  - "Maarten de Rijke"
+date: 2025-04-01
+publishDate: 2025-04-01
+publication_types: ["2"]
+publication: "47th European Conference on Information Retrieval (ECIR 2025)"
+featured: false
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+A systematic evaluation of language-model–based architectures within neural news recommendation pipelines.
+
+---
+title: "Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning"
+authors:
+  - admin
+  - "Jiancan Wu"
+  - "Xiang Wang"
+  - "Wei Tang"
+  - "Dingxian Wang"
+  - "Maarten de Rijke"
+date: 2024-07-01
+publishDate: 2024-07-01
+publication_types: ["2"]
+publication: "47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)"
+featured: true
+
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+ToolRec uses LLMs as surrogate users and tool-learning modules to achieve controllable, interpretable, and aligned recommendations.
+
+---
+title: "Can LLMs Serve as User Simulators for Recommender Systems?"
+authors:
+  - admin
+  - "Jin Huang"
+  - "Maarten de Rijke"
+date: 2024-04-01
+publishDate: 2024-04-01
+publication_types: ["3"]
+publication: "Search Futures Workshop at ECIR 2024"
+featured: false
+
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+A study exploring the potential and limitations of LLMs as user simulators for interactive recommender system evaluation.
+
+
+---
+title: "EvoWiki: Evaluating LLMs on Evolving Knowledge"
+authors:
+  - "Wei Tang"
+  - "Yixin Cao"
+  - "Yang Deng"
+  - "Jiahao Ying"
+  - "Bo Wang"
+  - "Yizhe Yang"
+  - admin
+  - "Qi Zhang"
+date: 2025-07-01
+publishDate: 2025-07-01
+publication_types: ["2"]
+publication: "63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+featured: false
+
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+A benchmark for evaluating LLMs' ability to track, update, and reason over evolving knowledge.
+
+
+---
+title: "A+B: A General Generator-Reader Framework for Optimizing LLMs to Unleash Synergy Potential"
+authors:
+  - "Wei Tang"
+  - "Yixin Cao"
+  - "Jiahao Ying"
+  - "Bo Wang"
+  - admin
+  - "Yong Liao"
+  - "Pengyuan Zhou"
+date: 2024-07-01
+publishDate: 2024-07-01
+publication_types: ["2"]
+publication: "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+featured: false
+
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+A generator–reader synergy optimization framework for improving large language models.
+
+---
+title: "UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction"
+authors:
+  - "Wei Tang"
+  - "Benfeng Xu"
+  - admin
+  - "Zhendong Mao"
+  - "Yifeng Liu"
+  - "Yong Liao"
+  - "Haiyong Xie"
+date: 2022-12-01
+publishDate: 2022-12-01
+publication_types: ["2"]
+publication: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)"
+featured: false
+
+url_pdf: "BLANK"
+url_code: "BLANK"
+doi: "BLANK"
+---
+
+A unified representation–interaction framework for relational triple extraction.
+
