@@ -12,7 +12,7 @@ authors:
 date: 2022-12-01
 publishDate: 2022-12-01
 publication_types: ["2"]
-publication: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)"
+publication: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 featured: false
 
 url_pdf: "https://arxiv.org/pdf/2211.09039"

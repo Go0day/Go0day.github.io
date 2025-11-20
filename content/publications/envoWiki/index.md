@@ -13,7 +13,7 @@ authors:
 date: 2025-07-01
 publishDate: 2025-07-01
 publication_types: ["2"]
-publication: "63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+publication: "63rd Annual Meeting of the Association for Computational Linguistics (ACL)"
 featured: false
 
 url_pdf: "https://arxiv.org/abs/2412.13582"

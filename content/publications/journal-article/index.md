@@ -11,7 +11,7 @@ authors:
 date: 2022-03-01
 publishDate: 2022-03-01
 publication_types: ["1"]
-publication: "ACM Transactions on Information Systems, 41(2):26, 2022"
+publication: "ACM Transactions on Information Systems, 41(2):26."
 featured: false
 
 url_pdf: "https://arxiv.org/abs/2108.02634"

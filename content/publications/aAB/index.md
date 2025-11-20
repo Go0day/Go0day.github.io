@@ -13,7 +13,7 @@ authors:
 date: 2024-07-01
 publishDate: 2024-07-01
 publication_types: ["2"]
-publication: "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+publication: "62nd Annual Meeting of the Association for Computational Linguistics (ACL)"
 featured: false
 
 url_pdf: "https://arxiv.org/abs/2406.03963"

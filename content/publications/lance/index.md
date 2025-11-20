@@ -10,7 +10,7 @@ authors:
 date: 2025-09-01
 publishDate: 2025-09-01
 publication_types: ["2"]
-publication: "19th ACM Conference on Recommender Systems (RecSys 2025), Spotlight Oral"
+publication: "19th ACM Conference on Recommender Systems (RecSys), Spotlight Oral"
 featured: true
 
 url_pdf: "BLANK"

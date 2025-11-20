@@ -9,7 +9,7 @@ authors:
 date: 2025-04-01
 publishDate: 2025-04-01
 publication_types: ["2"]
-publication: "47th European Conference on Information Retrieval (ECIR 2025)"
+publication: "47th European Conference on Information Retrieval (ECIR)"
 featured: false
 
 url_pdf: "https://arxiv.org/pdf/2501.11391"

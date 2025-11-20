@@ -10,7 +10,7 @@ authors:
 date: 2024-07-01
 publishDate: 2024-07-01
 publication_types: ["2"]
-publication: "47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)"
+publication: "47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
 featured: true
 
 url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3626772.3657828?casa_token=XGOcsoOumI4AAAAA:ROJ2sm__bXtQHMhIoWhZ1TrOwJyQPfcRb3DJrqeEJfGAl1vAC-ls0_lJ0vFaU1tAiaVmmAV1Qq5BotU"
