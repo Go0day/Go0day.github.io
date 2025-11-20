@@ -35,12 +35,14 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Yuyue'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2025} Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">
+CC BY-NC-ND 4.0
+</a>.'
     license:
       enable: true
       allow_derivatives: false
@@ -49,7 +51,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Oct 24, 2025'
   time_format: '3:04 PM'
 
 # Site features
