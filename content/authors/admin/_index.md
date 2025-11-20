@@ -7,7 +7,7 @@ name_pronunciation: 'Yúyuè Zhào'
 
 # Full name (for SEO)
 first_name: Yuyue
-last_name: Zhao
+last_name: Zhao's Homepage
 
 # Pronouns (optional)
 pronouns: ''
