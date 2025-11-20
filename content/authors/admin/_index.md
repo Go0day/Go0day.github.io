@@ -142,17 +142,11 @@ languages:
 awards: []
 ---
 
-Yuyue Zhao is a researcher in recommender systems and trustworthy AI. She completed her PhD in Computer Science at the University of Amsterdam, advised by
+I am a researcher in recommender systems and trustworthy AI. I completed my PhD in Computer Science at the University of Amsterdam, advised by
 <strong><a href="https://scholar.google.com/citations?user=AVDkgFIAAAAJ" target="_blank" rel="noopener">Prof. dr. Maarten de Rijke</a></strong>.
-Before that, she worked with
+Before that, I worked with
 <strong><a href="https://scholar.google.com/citations?user=X45Go24AAAAJ" target="_blank" rel="noopener">Prof. dr. Xiangnan He</a></strong>
 and
 <strong><a href="https://scholar.google.com/citations?user=HdhaQB0AAAAJ" target="_blank" rel="noopener">Prof. dr. Xiang Wang</a></strong>.
 
-
-Her work focuses on generative recommendation, LLM agents for recommendation, and the safety and robustness of recommender systems, especially in sensitive domains
-such as news recommendation and personalized content delivery, where user trust and experience are critical.
-
-# Her research spans three connected directions: (1) improving recommendation with LLM-based reasoning and agents, (2) correcting for attribute bias and enhancing explainability with invariant and knowledge-aware modeling, and (3) understanding and improving the safety of recommender systems under LLM-driven attacks and media bias control. She has published in venues such as SIGIR, RecSys, ECIR, and TOIS, and actively serves as a reviewer for major conferences and journals.
-
-# Beyond individual models, she is interested in how recommender systems affect what users see and trust, and how we can design systems that are both powerful and responsible.
+My work focuses on generative recommendation, LLM agents for recommendation, and the safety and robustness of recommender systems, especially in sensitive domains such as news recommendation and personalized content delivery, where user trust and experience are critical.
