@@ -152,3 +152,5 @@ and
 <strong><a href="https://scholar.google.com/citations?user=HdhaQB0AAAAJ" target="_blank" rel="noopener">Prof. dr. Xiang Wang</a></strong>.
 
 My work focuses on generative recommendation, LLM agents for recommendation, and the safety and robustness of recommender systems, especially in sensitive domains such as news recommendation and personalized content delivery, where user trust and experience are critical.
+
+I successfully defended my Ph.D. thesis titled <strong><a href="https://pure.uva.nl/ws/files/259491910/Thesis.pdf" target="_blank" rel="noopener">From enhancement to exploitation: The dual role of LLMs in recommender systems </a></strong> on 23rd Oct 2025. I am looking for positions to continue my career.
