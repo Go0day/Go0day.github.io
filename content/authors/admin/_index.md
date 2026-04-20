@@ -68,13 +68,13 @@ education:
     button:
       text: ''
       url: ''
-  - area: Combined M.E.–Ph.D. Program in Computer Science
+  - area:  M.E. in Computer Science
     institution: University of Science and Technology of China
     icon: ""
     date_start: 2019-09-01
     date_end: 2023-10-31
     summary: |
-      Combined M.E.–Ph.D. program in Computer Science, Hefei, China.
+    M.E. in Computer Science, Hefei, China.
 
       Advisor: Prof. dr. Xiangnan He.
 
